@@ -8,7 +8,7 @@ I build software for industries where getting it wrong isn't an option: **labs**
 
 At **[Sandorian](https://github.com/sandorian)**, we're the technical partner for European companies in regulated industries. We design and build systems that are compliance-ready from day one. Our clients include ISO-accredited diagnostic labs, fintech companies, energy providers, and research institutes.
 
-At **[Vatly](https://vatly.com)**, we're building a Merchant of Record platform for European SaaS companies selling globally. One integration, global tax compliance handled.
+At **[Vatly](https://github.com/Vatly)**, we're building a Merchant of Record platform for European SaaS companies selling globally. One integration, global tax compliance handled.
 
 ## Open source
 
