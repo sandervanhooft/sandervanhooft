@@ -12,10 +12,11 @@ At **[Vatly](https://github.com/Vatly)**, we're building a Merchant of Record pl
 
 ## Open source
 
-I maintain and contribute to several packages in the Laravel and Mollie ecosystems:
+A selection of packages I maintain and contribute to:
 
 | Package | Stars |
 |---|---|
+| [mollie/mollie-api-php](https://github.com/mollie/mollie-api-php) | ![Stars](https://img.shields.io/github/stars/mollie/mollie-api-php?style=flat-square) |
 | [mollie/laravel-mollie](https://github.com/mollie/laravel-mollie) | ![Stars](https://img.shields.io/github/stars/mollie/laravel-mollie?style=flat-square) |
 | [mollie/laravel-cashier-mollie](https://github.com/mollie/laravel-cashier-mollie) | ![Stars](https://img.shields.io/github/stars/mollie/laravel-cashier-mollie?style=flat-square) |
 | [laravel-invoicable](https://github.com/sandervanhooft/laravel-invoicable) | ![Stars](https://img.shields.io/github/stars/sandervanhooft/laravel-invoicable?style=flat-square) |
