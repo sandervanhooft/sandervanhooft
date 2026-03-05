@@ -18,7 +18,7 @@ A selection of packages I maintain and contribute to:
 |---|---|
 | [mollie/mollie-api-php](https://github.com/mollie/mollie-api-php) | ![Stars](https://img.shields.io/github/stars/mollie/mollie-api-php?style=flat-square) |
 | [mollie/laravel-mollie](https://github.com/mollie/laravel-mollie) | ![Stars](https://img.shields.io/github/stars/mollie/laravel-mollie?style=flat-square) |
-| [mollie/laravel-cashier-mollie](https://github.com/mollie/laravel-cashier-mollie) | ![Stars](https://img.shields.io/github/stars/mollie/laravel-cashier-mollie?style=flat-square) |
+| [mollie/laravel-cashier-mollie](https://github.com/mollie/laravel-cashier-mollie) | ![Stars](https://img.shields.io/github/stars/mollie/laravel-cashier-mollie?style=flat-square&v=1) |
 | [laravel-invoicable](https://github.com/sandervanhooft/laravel-invoicable) | ![Stars](https://img.shields.io/github/stars/sandervanhooft/laravel-invoicable?style=flat-square) |
 | [sandorian/moneybird-api-php](https://github.com/sandorian/moneybird-api-php) | ![Stars](https://img.shields.io/github/stars/sandorian/moneybird-api-php?style=flat-square) |
 
