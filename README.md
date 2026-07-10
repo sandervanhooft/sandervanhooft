@@ -1,6 +1,6 @@
 # Hi, I'm Sander 👋
 
-Founder of [Sandorian](https://sandorian.com) and [Vatly](https://vatly.com). Based in Tilburg, Netherlands.
+Founder of [Sandorian](https://sandorian.com) and [Vatly](https://vatly.com). Based near Tilburg, The Netherlands.
 
 I build software for industries where getting it wrong isn't an option: **labs**, **fintech**, **energy**, and **R&D**.
 
