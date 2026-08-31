@@ -26,4 +26,3 @@ A selection of packages I maintain and contribute to:
 
 - 🔧 [sandorian.com](https://sandorian.com)
 - 💼 [LinkedIn](https://linkedin.com/in/sandervanhooft)
-- 📧 sander@sandorian.com
